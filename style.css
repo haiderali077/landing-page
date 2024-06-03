@@ -35,7 +35,7 @@ ul {
   padding-top: 5px;
   padding-bottom: 10px;
   min-height: 290px;
-  height: auto:
+  height: auto;
   gap: 50px;
 }
 
@@ -112,7 +112,8 @@ ul {
   justify-content: center;
   flex-direction: column;
   box-sizing: border-box;
-  height: 500px;
+  min-height: 490px;
+  height: auto;
   padding-top: 100px;
   color: #1f2937;
   font-style: italic;
