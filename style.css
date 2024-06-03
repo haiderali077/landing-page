@@ -34,7 +34,8 @@ ul {
   display: flex;
   padding-top: 5px;
   padding-bottom: 10px;
-  height: 290px;
+  min-height: 290px;
+  height: auto:
   gap: 50px;
 }
 
